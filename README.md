@@ -1,7 +1,7 @@
 # wasd-iso-104-fr
 
 This project holds the custom layout I designed for a WASD Keyboard featuring an AZERTY fr-FR disposition.
-This project also contains a [compliant disposition for the AFNOR AZERTY NF Z71-300 layout](https://github.com/springcomp/wasd-iso-104-fr/blob/nf-z71-300/wasd-inkscape-104.88-iso.fr%20(nf%20z71-300).svg).
+This project also contains a [compliant disposition for the AFNOR AZERTY NF Z71-300 layout](https://github.com/springcomp/wasd-iso-104-fr/blob/nf-z71-300/wasd-inkscape-105.88-iso.nf-z71-300.svg).
 
 While WASD offers an AZERTY keyboard, mine differs in that text on the keys have been translated to french.
 
