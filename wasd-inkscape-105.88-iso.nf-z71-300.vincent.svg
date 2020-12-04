@@ -83,9 +83,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="607.35"
-     inkscape:cy="218"
+     inkscape:zoom="1.4142"
+     inkscape:cx="603.26"
+     inkscape:cy="298.61"
      inkscape:document-units="px"
      inkscape:current-layer="g8132"
      showgrid="false"
@@ -6095,310 +6095,319 @@
      inkscape:groupmode="layer">
     <g
        id="g4914"
-       style="fill:#d0ccc0;fill-opacity:1">
+       style="fill:#0046ad;fill-opacity:1">
       <g
          id="text15878"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.98625px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#d0ccc0;fill-opacity:1;stroke:none;stroke-width:0.9375"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.98625px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#0046ad;fill-opacity:1;stroke:none;stroke-width:0.9375"
          aria-label="¤">
         <path
            inkscape:connector-curvature="0"
            id="path2925"
-           style="fill:#d0ccc0;fill-opacity:1;stroke-width:0.9375"
+           style="fill:#0046ad;fill-opacity:1;stroke-width:0.9375"
            d="m 397.68,310.62 -1.01,-1 0.84,-0.87 1.01,1.02 q 0.78,-0.53 1.74,-0.53 0.96,0 1.73,0.53 l 1.02,-1.02 0.85,0.87 -1.02,1 q 0.52,0.8 0.52,1.71 0,0.93 -0.52,1.73 l 1.02,1 -0.85,0.87 -1.02,-1.03 q -0.77,0.54 -1.73,0.54 -0.96,0 -1.74,-0.54 l -1.01,1.03 -0.84,-0.87 1.01,-1 q -0.52,-0.8 -0.52,-1.73 0,-0.91 0.52,-1.71 z m 0.68,1.71 q 0,0.8 0.55,1.35 0.56,0.56 1.34,0.56 0.78,0 1.34,-0.56 0.56,-0.55 0.56,-1.35 0,-0.78 -0.56,-1.33 -0.55,-0.56 -1.34,-0.56 -0.78,0 -1.34,0.56 -0.55,0.55 -0.55,1.33 z" />
       </g>
       <g
          id="text13953"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.98625px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#d0ccc0;fill-opacity:1;stroke:none;stroke-width:0.9375"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.98625px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#0046ad;fill-opacity:1;stroke:none;stroke-width:0.9375"
          aria-label="µ">
         <path
            inkscape:connector-curvature="0"
            id="path2850"
-           style="fill:#d0ccc0;fill-opacity:1;stroke-width:0.9375"
+           style="fill:#0046ad;fill-opacity:1;stroke-width:0.9375"
            d="m 471.35,309.93 v 7.77 h -1.18 v -0.93 q -0.38,0.59 -0.76,0.81 -0.51,0.3 -1.19,0.3 -0.61,0 -1.07,-0.24 -0.36,-0.18 -0.78,-0.73 v 3.76 h -1.3 v -10.74 h 1.3 v 3.29 q 0,1.79 0.19,2.33 0.19,0.52 0.62,0.83 0.43,0.31 0.98,0.31 0.59,0 1.05,-0.33 0.46,-0.32 0.65,-0.82 0.19,-0.51 0.19,-2.3 v -3.31 z" />
       </g>
       <g
          id="text2749"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.98625px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#d0ccc0;fill-opacity:1;stroke:none;stroke-width:0.9375"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.98625px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#0046ad;fill-opacity:1;stroke:none;stroke-width:0.9375"
          aria-label="Eu">
         <path
            inkscape:connector-curvature="0"
            id="path2791"
-           style="fill:#d0ccc0;fill-opacity:1;stroke-width:0.9375"
+           style="fill:#0046ad;fill-opacity:1;stroke-width:0.9375"
            d="m 522.67,317.7 v -10.73 h 7.76 v 1.26 h -6.34 v 3.29 h 5.94 v 1.26 h -5.94 v 3.65 h 6.59 v 1.27 z" />
         <path
            inkscape:connector-curvature="0"
            id="path2793"
-           style="fill:#d0ccc0;fill-opacity:1;stroke-width:0.9375"
+           style="fill:#0046ad;fill-opacity:1;stroke-width:0.9375"
            d="m 537.58,317.7 v -1.15 q -0.91,1.32 -2.47,1.32 -0.68,0 -1.28,-0.26 -0.6,-0.27 -0.89,-0.66 -0.28,-0.4 -0.4,-0.98 -0.1,-0.39 -0.1,-1.23 v -4.82 h 1.32 v 4.31 q 0,1.04 0.1,1.4 0.12,0.51 0.52,0.81 0.4,0.3 1,0.3 0.59,0 1.11,-0.3 0.52,-0.31 0.73,-0.83 0.22,-0.53 0.22,-1.52 v -4.17 h 1.32 v 7.78 z" />
       </g>
     </g>
     <g
-       id="g4982"
-       style="fill:#ffffff;fill-opacity:1">
+       id="g4513"
+       style="fill:#d2cec2;fill-opacity:1">
       <g
          transform="matrix(0.99912,0,0,1.0009,-565.55,67.488)"
-         style="font-size:14.9868px;fill:#ffffff;fill-opacity:1"
+         style="font-size:14.9868px;fill:#d2cec2;fill-opacity:1"
          id="g8364">
         <path
            d="m 898.79,251.4 v -1.32 q -0.98,-0.12 -1.61,-0.44 -0.61,-0.32 -1.06,-1.03 -0.45,-0.71 -0.52,-1.73 l 1.32,-0.25 q 0.15,1.06 0.54,1.56 0.56,0.7 1.33,0.78 v -4.19 q -0.81,-0.16 -1.66,-0.63 -0.63,-0.36 -0.97,-0.98 -0.34,-0.62 -0.34,-1.41 0,-1.4 1,-2.28 0.66,-0.58 1.97,-0.71 v -0.63 h 0.78 v 0.63 q 1.15,0.11 1.82,0.67 0.87,0.72 1.04,1.97 l -1.36,0.2 q -0.12,-0.77 -0.49,-1.18 -0.37,-0.42 -1.01,-0.55 v 3.8 q 0.99,0.25 1.32,0.39 0.61,0.27 1,0.65 0.39,0.39 0.59,0.93 0.21,0.53 0.21,1.15 0,1.37 -0.87,2.29 -0.87,0.91 -2.25,0.98 v 1.33 z m 0,-11.54 q -0.76,0.12 -1.21,0.62 -0.44,0.5 -0.44,1.18 0,0.67 0.37,1.12 0.38,0.46 1.28,0.73 z m 0.78,9.11 q 0.77,-0.1 1.27,-0.67 0.5,-0.57 0.5,-1.41 0,-0.72 -0.36,-1.15 -0.35,-0.44 -1.41,-0.78 z"
-           style="font-variant:normal;font-weight:normal;font-size:14.9868px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-variant:normal;font-weight:normal;font-size:14.9868px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#d2cec2;fill-opacity:1;fill-rule:nonzero;stroke:none"
            id="path8367"
            inkscape:connector-curvature="0" />
       </g>
       <g
          transform="scale(0.99912,1.0009)"
-         style="font-size:14.9868px;fill:#ffffff;fill-opacity:1"
+         style="font-size:14.9868px;fill:#d2cec2;fill-opacity:1"
          id="g8447">
         <path
            d="M 417.88,182.41 V 168.7 h 2.91 v 1.09 h -1.59 v 11.53 h 1.59 v 1.09 z"
-           style="font-variant:normal;font-weight:normal;font-size:14.9868px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-variant:normal;font-weight:normal;font-size:14.9868px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#d2cec2;fill-opacity:1;fill-rule:nonzero;stroke:none"
            id="path8449"
            inkscape:connector-curvature="0" />
       </g>
       <g
          transform="matrix(0.99912,0,0,1.0009,-337.18,0)"
-         style="font-size:14.9868px;fill:#ffffff;fill-opacity:1"
+         style="font-size:14.9868px;fill:#d2cec2;fill-opacity:1"
          id="g8467">
         <path
            d="m 825.99,182.76 h -2.9 v -1.09 h 1.58 v -11.53 h -1.58 v -1.09 h 2.9 z"
-           style="font-variant:normal;font-weight:normal;font-size:14.9868px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-variant:normal;font-weight:normal;font-size:14.9868px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#d2cec2;fill-opacity:1;fill-rule:nonzero;stroke:none"
            id="path8469"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text15836"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.98625px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.9375"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.98625px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#d2cec2;fill-opacity:1;stroke:none;stroke-width:0.9375"
          aria-label="æ">
         <path
            inkscape:connector-curvature="0"
            id="path2949"
-           style="fill:#ffffff;fill-opacity:1;stroke-width:0.9375"
+           style="fill:#d2cec2;fill-opacity:1;stroke-width:0.9375"
            d="m 184.64,247.79 q -0.36,1.23 -1.24,1.89 -0.88,0.67 -2.18,0.67 -0.93,0 -1.63,-0.35 -0.7,-0.35 -1.26,-1.1 -0.76,0.75 -1.55,1.1 -0.77,0.35 -1.67,0.35 -1.26,0 -1.96,-0.65 -0.7,-0.65 -0.7,-1.58 0,-0.63 0.36,-1.17 0.37,-0.56 1.01,-0.85 0.65,-0.28 2.07,-0.46 1.1,-0.15 1.84,-0.36 0,-0.19 0,-0.3 0,-0.92 -0.39,-1.29 -0.38,-0.37 -1.34,-0.37 -0.63,0 -1.07,0.15 -0.44,0.15 -0.65,0.44 -0.21,0.28 -0.35,0.9 l -1.28,-0.15 q 0.21,-0.86 0.59,-1.36 0.39,-0.5 1.1,-0.79 0.72,-0.28 1.68,-0.28 1.22,0 1.97,0.36 0.43,0.21 0.72,0.68 0.47,-0.51 1.06,-0.77 0.6,-0.27 1.44,-0.27 1.18,0 1.96,0.57 0.77,0.57 1.13,1.52 0.36,0.94 0.36,1.86 0,0.14 0,0.44 h -5.62 q 0,1.06 0.26,1.53 0.25,0.48 0.78,0.8 0.54,0.32 1.19,0.32 0.75,0 1.27,-0.44 0.53,-0.43 0.73,-1.21 z m -5.6,-2.25 h 4.28 q -0.1,-1.16 -0.66,-1.69 -0.56,-0.53 -1.45,-0.53 -0.92,0 -1.51,0.58 -0.59,0.59 -0.66,1.64 z m -1.28,0.73 q -0.58,0.25 -2.36,0.54 -0.8,0.12 -1.12,0.37 -0.43,0.34 -0.43,0.9 0,0.52 0.39,0.88 0.38,0.35 1.12,0.35 0.84,0 1.47,-0.42 0.63,-0.41 0.82,-1.04 0.11,-0.38 0.11,-1.58 z" />
       </g>
       <g
          id="text15840"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.98625px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.9375"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.98625px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#d2cec2;fill-opacity:1;stroke:none;stroke-width:0.9375"
          aria-label="£">
         <path
            inkscape:connector-curvature="0"
            id="path2946"
-           style="fill:#ffffff;fill-opacity:1;stroke-width:0.9375"
+           style="fill:#d2cec2;fill-opacity:1;stroke-width:0.9375"
            d="m 247.07,244.24 h 2.31 v 1.08 h -2.08 q 0.14,0.32 0.14,0.64 0,0.64 -0.31,1.35 -0.3,0.71 -0.99,1.45 0.58,-0.16 1.05,-0.16 0.61,0 1.37,0.18 1.26,0.3 1.7,0.3 0.55,0 1.41,-0.41 l 0.42,1.21 q -0.67,0.28 -1.04,0.37 -0.37,0.1 -0.73,0.1 -0.31,0 -0.63,-0.1 -0.19,0 -0.95,-0.26 -0.74,-0.24 -0.96,-0.28 -0.35,-0.1 -0.69,-0.1 -0.53,0 -1.13,0.18 -0.59,0.19 -1.08,0.5 l -0.51,-1.27 q 0.71,-0.38 1.2,-1.1 0.49,-0.73 0.49,-1.76 0,-0.45 -0.13,-0.91 h -1.43 v -1.08 h 1.13 q -0.25,-0.82 -0.31,-1.2 -0.1,-0.38 -0.1,-0.74 0,-1.52 1.13,-2.37 0.91,-0.69 2.19,-0.69 1.33,0 2.18,0.74 0.87,0.72 1.07,2.04 l -1.31,0.2 q -0.11,-0.88 -0.66,-1.39 -0.54,-0.5 -1.31,-0.5 -0.81,0 -1.35,0.52 -0.53,0.52 -0.53,1.26 0,0.82 0.41,2.13 z" />
       </g>
       <g
          id="text15844"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.98625px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.9375"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.98625px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#d2cec2;fill-opacity:1;stroke:none;stroke-width:0.9375"
          aria-label="®">
         <path
            inkscape:connector-curvature="0"
            id="path2943"
-           style="fill:#ffffff;fill-opacity:1;stroke-width:0.9375"
+           style="fill:#d2cec2;fill-opacity:1;stroke-width:0.9375"
            d="m 381.63,239.26 q 1.39,0 2.71,0.72 1.33,0.71 2.07,2.04 0.74,1.33 0.74,2.77 0,1.43 -0.73,2.74 -0.73,1.32 -2.05,2.05 -1.31,0.73 -2.74,0.73 -1.43,0 -2.75,-0.73 -1.31,-0.73 -2.04,-2.05 -0.74,-1.31 -0.74,-2.74 0,-1.44 0.74,-2.77 0.75,-1.33 2.07,-2.04 1.33,-0.72 2.72,-0.72 z m 0,0.92 q -1.16,0 -2.27,0.6 -1.1,0.59 -1.72,1.7 -0.62,1.11 -0.62,2.31 0,1.19 0.61,2.29 0.61,1.09 1.71,1.71 1.1,0.6 2.29,0.6 1.19,0 2.29,-0.6 1.1,-0.62 1.7,-1.71 0.61,-1.1 0.61,-2.29 0,-1.2 -0.62,-2.31 -0.61,-1.11 -1.72,-1.7 -1.1,-0.6 -2.26,-0.6 z m -2.42,7.66 v -5.94 h 2.04 q 1.05,0 1.51,0.17 0.47,0.16 0.75,0.57 0.28,0.41 0.28,0.87 0,0.65 -0.47,1.13 -0.46,0.49 -1.23,0.54 0.32,0.14 0.51,0.32 0.35,0.35 0.87,1.18 l 0.73,1.16 h -1.17 l -0.53,-0.94 q -0.62,-1.1 -1,-1.38 -0.27,-0.2 -0.77,-0.2 h -0.56 v 2.52 z m 0.96,-3.34 h 1.16 q 0.83,0 1.13,-0.25 0.31,-0.25 0.31,-0.66 0,-0.26 -0.15,-0.47 -0.14,-0.21 -0.4,-0.31 -0.26,-0.11 -0.96,-0.11 h -1.09 z" />
       </g>
       <g
          id="text15854"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.98625px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.9375"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.98625px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#d2cec2;fill-opacity:1;stroke:none;stroke-width:0.9375"
          aria-label="ù">
         <path
            inkscape:connector-curvature="0"
            id="path2940"
-           style="fill:#ffffff;fill-opacity:1;stroke-width:0.9375"
+           style="fill:#d2cec2;fill-opacity:1;stroke-width:0.9375"
            d="m 588.23,250.19 v -1.14 q -0.9,1.31 -2.46,1.31 -0.69,0 -1.29,-0.26 -0.59,-0.26 -0.88,-0.66 -0.29,-0.4 -0.41,-0.98 -0.1,-0.39 -0.1,-1.23 v -4.81 h 1.32 v 4.31 q 0,1.03 0.1,1.39 0.12,0.52 0.53,0.82 0.4,0.29 0.99,0.29 0.59,0 1.11,-0.3 0.52,-0.31 0.74,-0.83 0.22,-0.52 0.22,-1.52 v -4.16 h 1.31 v 7.77 z m -0.75,-8.74 h -1.06 l -1.69,-2.05 h 1.76 z" />
       </g>
       <g
          id="text15858"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.98625px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.9375"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.98625px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#d2cec2;fill-opacity:1;stroke:none;stroke-width:0.9375"
          aria-label="œ">
         <path
            inkscape:connector-curvature="0"
            id="path2937"
-           style="fill:#ffffff;fill-opacity:1;stroke-width:0.9375"
+           style="fill:#d2cec2;fill-opacity:1;stroke-width:0.9375"
            d="m 717.99,248.92 q -0.56,0.73 -1.28,1.09 -0.73,0.37 -1.62,0.37 -1.65,0 -2.66,-1.05 -1,-1.04 -1,-2.92 0,-1.23 0.42,-2.21 0.44,-0.98 1.31,-1.46 0.88,-0.48 1.94,-0.48 1.01,0 1.76,0.42 0.75,0.42 1.13,1.06 0.47,-0.68 1.2,-1.08 0.74,-0.4 1.64,-0.4 1.61,0 2.61,1.1 0.99,1.11 0.98,3.31 h -5.74 q 0,1.21 0.68,1.92 0.65,0.71 1.63,0.71 0.73,0 1.25,-0.41 0.53,-0.4 0.76,-1.22 l 1.32,0.19 q -0.32,1.21 -1.18,1.87 -0.86,0.65 -2.17,0.65 -0.98,0 -1.75,-0.38 -0.78,-0.39 -1.23,-1.08 z m -5.21,-2.62 q 0,1.37 0.52,2.08 0.68,0.92 1.75,0.92 0.95,0 1.62,-0.78 0.67,-0.77 0.67,-2.23 0,-1.45 -0.66,-2.2 -0.66,-0.75 -1.63,-0.75 -0.63,0 -1.17,0.36 -0.53,0.36 -0.82,1.06 -0.28,0.7 -0.28,1.54 z m 5.95,-0.71 h 4.3 q -0.1,-1.11 -0.67,-1.68 -0.58,-0.57 -1.45,-0.57 -0.87,0 -1.49,0.6 -0.61,0.6 -0.69,1.65 z" />
       </g>
       <g
          id="text15862"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.98625px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.9375"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.98625px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#d2cec2;fill-opacity:1;stroke:none;stroke-width:0.9375"
          aria-label="}">
         <path
            inkscape:connector-curvature="0"
            id="path2934"
-           style="fill:#ffffff;fill-opacity:1;stroke-width:0.9375"
+           style="fill:#d2cec2;fill-opacity:1;stroke-width:0.9375"
            d="m 522.02,245.73 v 1.19 q -0.56,0 -0.92,0.31 -0.35,0.29 -0.47,0.8 -0.11,0.49 -0.12,1.72 0,1.22 0,1.61 -0.1,0.62 -0.25,0.98 -0.18,0.38 -0.44,0.6 -0.27,0.22 -0.68,0.34 -0.27,0.1 -0.9,0.1 h -0.41 v -1.15 h 0.22 q 0.76,0 1.01,-0.28 0.25,-0.27 0.25,-1.23 0,-1.83 0.1,-2.32 0.12,-0.81 0.47,-1.29 0.35,-0.49 0.99,-0.76 -0.84,-0.4 -1.18,-1.06 -0.35,-0.67 -0.35,-2.24 0,-1.43 0,-1.71 -0.1,-0.49 -0.3,-0.68 -0.23,-0.19 -0.93,-0.19 h -0.22 v -1.15 h 0.41 q 0.71,0 1.04,0.11 0.46,0.16 0.77,0.54 0.31,0.39 0.4,0.96 0.1,0.58 0.1,1.9 0,1.32 0.12,1.82 0.12,0.5 0.47,0.79 0.36,0.29 0.92,0.31 z" />
       </g>
       <g
          id="text15866"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.98625px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.9375"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.98625px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#d2cec2;fill-opacity:1;stroke:none;stroke-width:0.9375"
          aria-label="%">
         <path
            inkscape:connector-curvature="0"
            id="path2931"
-           style="fill:#ffffff;fill-opacity:1;stroke-width:0.9375"
+           style="fill:#d2cec2;fill-opacity:1;stroke-width:0.9375"
            d="m 780.43,242.05 q 0,-1.15 0.58,-1.96 0.57,-0.8 1.67,-0.8 1.01,0 1.67,0.72 0.67,0.72 0.67,2.12 0,1.36 -0.68,2.1 -0.66,0.73 -1.64,0.73 -0.98,0 -1.63,-0.73 -0.64,-0.72 -0.64,-2.18 z m 2.29,-1.86 q -0.49,0 -0.82,0.43 -0.32,0.42 -0.32,1.56 0,1.03 0.33,1.45 0.32,0.42 0.81,0.42 0.5,0 0.82,-0.42 0.33,-0.43 0.33,-1.56 0,-1.03 -0.33,-1.45 -0.33,-0.43 -0.82,-0.43 z m 0,10.4 5.87,-11.3 h 1.07 l -5.85,11.3 z m 4.64,-2.91 q 0,-1.16 0.58,-1.95 0.58,-0.81 1.68,-0.81 1.01,0 1.67,0.73 0.67,0.71 0.67,2.11 0,1.36 -0.67,2.1 -0.67,0.73 -1.66,0.73 -0.97,0 -1.62,-0.72 -0.65,-0.73 -0.65,-2.19 z m 2.3,-1.85 q -0.5,0 -0.83,0.42 -0.32,0.43 -0.32,1.56 0,1.03 0.33,1.45 0.33,0.42 0.81,0.42 0.51,0 0.83,-0.42 0.33,-0.42 0.33,-1.55 0,-1.04 -0.33,-1.46 -0.33,-0.42 -0.82,-0.42 z" />
       </g>
       <g
          id="text15882"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.98625px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.9375"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.98625px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#d2cec2;fill-opacity:1;stroke:none;stroke-width:0.9375"
          aria-label="€">
         <path
            inkscape:connector-curvature="0"
            id="path2922"
-           style="fill:#ffffff;fill-opacity:1;stroke-width:0.9375"
+           style="fill:#d2cec2;fill-opacity:1;stroke-width:0.9375"
            d="m 317.51,240.5 q -1.23,0 -2.06,0.59 -0.5,0.35 -0.9,1 -0.41,0.66 -0.49,1.26 h 4.99 l -0.19,0.98 h -4.91 q 0,0.16 0,0.29 0,0.57 0,0.68 h 4.71 l -0.21,0.98 h -4.35 q 0.31,1.67 1.48,2.38 0.84,0.5 1.82,0.5 1.37,0 2.14,-0.72 v 1.51 q -0.92,0.43 -2.02,0.43 -3.31,0 -4.47,-2.76 -0.24,-0.55 -0.41,-1.34 h -1.12 l 0.21,-0.98 h 0.77 q 0,-0.31 0,-0.67 0,-0.14 0,-0.3 h -0.96 l 0.21,-0.98 h 0.85 q 0.45,-2.38 2.36,-3.42 1.18,-0.65 2.6,-0.65 1.36,0 2.29,0.6 l -0.29,1.36 q -0.9,-0.74 -2.03,-0.74 z" />
       </g>
       <g
          id="text15862-3"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.98625px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.9375"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.98625px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;fill:#d2cec2;fill-opacity:1;stroke:none;stroke-width:0.9375"
          aria-label="{">
         <path
            inkscape:connector-curvature="0"
            id="path2919"
-           style="fill:#ffffff;fill-opacity:1;stroke-width:0.9375"
+           style="fill:#d2cec2;fill-opacity:1;stroke-width:0.9375"
            d="m 450.23,245.72 q 0.56,0 0.91,-0.3 0.36,-0.29 0.48,-0.8 0.11,-0.5 0.12,-1.73 0,-1.22 0,-1.61 0.1,-0.61 0.25,-0.98 0.18,-0.38 0.44,-0.6 0.27,-0.22 0.68,-0.34 0.27,-0.1 0.9,-0.1 h 0.41 v 1.15 h -0.22 q -0.77,0 -1.01,0.27 -0.25,0.27 -0.25,1.23 0,1.91 -0.1,2.42 -0.14,0.78 -0.46,1.2 -0.31,0.43 -0.99,0.76 0.8,0.33 1.16,1.03 0.37,0.69 0.37,2.26 0,1.43 0,1.7 0.1,0.5 0.29,0.69 0.24,0.2 0.94,0.2 h 0.22 v 1.15 h -0.41 q -0.71,0 -1.04,-0.12 -0.46,-0.16 -0.77,-0.55 -0.31,-0.37 -0.4,-0.95 -0.1,-0.57 -0.1,-1.89 0,-1.32 -0.12,-1.82 -0.12,-0.51 -0.48,-0.8 -0.35,-0.29 -0.91,-0.31 z" />
       </g>
       <g
          id="text15924-0"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.98625px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.9375"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.98625px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;fill:#d2cec2;fill-opacity:1;stroke:none;stroke-width:0.9375"
          aria-label="§">
         <path
            inkscape:connector-curvature="0"
            id="path2907"
-           style="fill:#ffffff;fill-opacity:1;stroke-width:0.9375"
+           style="fill:#d2cec2;fill-opacity:1;stroke-width:0.9375"
            d="m 144.46,183.3 1.33,-0.19 q 0.2,0.95 0.65,1.33 0.44,0.39 1.21,0.39 0.75,0 1.17,-0.38 0.42,-0.38 0.42,-0.89 0,-0.37 -0.26,-0.69 -0.46,-0.55 -2.49,-1.79 -1.08,-0.67 -1.52,-1.04 -0.42,-0.38 -0.69,-0.89 -0.27,-0.52 -0.27,-1.07 0,-0.7 0.44,-1.28 0.44,-0.57 1.21,-0.79 -0.52,-0.5 -0.74,-0.92 -0.21,-0.42 -0.21,-0.9 0,-0.93 0.73,-1.62 0.73,-0.69 1.94,-0.69 1.37,0 2.14,0.65 0.77,0.65 0.92,1.89 l -1.37,0.14 q -0.15,-0.89 -0.54,-1.25 -0.38,-0.35 -1.03,-0.35 -0.67,0 -1.09,0.37 -0.41,0.36 -0.41,0.8 0,0.38 0.26,0.7 0.41,0.5 2.24,1.61 1.15,0.7 1.55,1.03 0.52,0.44 0.76,0.91 0.25,0.47 0.25,1.02 0,0.82 -0.53,1.41 -0.31,0.33 -1.13,0.68 0.59,0.44 0.87,0.96 0.3,0.51 0.3,1.09 0,0.65 -0.37,1.22 -0.37,0.58 -1.05,0.88 -0.69,0.3 -1.49,0.3 -1.4,0 -2.22,-0.7 -0.82,-0.69 -0.98,-1.94 z m 4.28,-2.29 q 0.54,-0.28 0.81,-0.65 0.27,-0.37 0.27,-0.72 0,-0.42 -0.38,-0.88 -0.39,-0.46 -1.65,-1.24 -1,-0.61 -1.49,-1.01 -0.59,0.34 -0.85,0.68 -0.25,0.33 -0.25,0.74 0,0.46 0.34,0.88 0.33,0.42 1.51,1.11 0.98,0.58 1.69,1.09 z" />
       </g>
       <g
          id="text15958"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.98625px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.9375"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.98625px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#d2cec2;fill-opacity:1;stroke:none;stroke-width:0.9375"
          aria-label="&amp;">
         <path
            inkscape:connector-curvature="0"
            id="path2898"
-           style="fill:#ffffff;fill-opacity:1;stroke-width:0.9375"
+           style="fill:#d2cec2;fill-opacity:1;stroke-width:0.9375"
            d="m 351.4,181.52 q -0.65,0.72 -1.42,1.09 -0.76,0.36 -1.66,0.36 -1.64,0 -2.61,-1.12 -0.78,-0.9 -0.78,-2.02 0,-1 0.64,-1.8 0.64,-0.8 1.91,-1.41 -0.72,-0.83 -0.96,-1.35 -0.25,-0.52 -0.25,-1 0,-0.97 0.76,-1.68 0.76,-0.72 1.91,-0.72 1.1,0 1.79,0.68 0.7,0.67 0.7,1.61 0,1.53 -2.02,2.62 l 1.92,2.45 q 0.33,-0.65 0.51,-1.5 l 1.37,0.3 q -0.35,1.4 -0.95,2.31 0.74,0.98 1.68,1.65 l -0.89,1.04 q -0.8,-0.51 -1.65,-1.51 z m -2.67,-5.59 q 0.85,-0.51 1.1,-0.89 0.26,-0.38 0.26,-0.84 0,-0.55 -0.35,-0.89 -0.35,-0.35 -0.87,-0.35 -0.53,0 -0.89,0.34 -0.35,0.34 -0.35,0.84 0,0.25 0.12,0.53 0.13,0.27 0.39,0.58 z m 1.85,4.55 -2.42,-2.99 q -1.07,0.63 -1.44,1.18 -0.37,0.54 -0.37,1.08 0,0.65 0.52,1.35 0.52,0.7 1.47,0.7 0.59,0 1.22,-0.36 0.64,-0.38 1.02,-0.96 z" />
       </g>
       <g
          id="text1928"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.98625px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.9375"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.98625px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#d2cec2;fill-opacity:1;stroke:none;stroke-width:0.9375"
          aria-label="”">
         <path
            inkscape:connector-curvature="0"
            id="path2880"
-           style="fill:#ffffff;fill-opacity:1;stroke-width:0.9375"
+           style="fill:#d2cec2;fill-opacity:1;stroke-width:0.9375"
            d="m 754.4,173.48 v -1.53 h 1.41 v 1.21 q 0,0.98 -0.22,1.41 -0.32,0.6 -0.99,0.9 l -0.32,-0.52 q 0.4,-0.16 0.59,-0.51 0.2,-0.35 0.22,-0.96 z m 2.27,0 v -1.53 h 1.41 v 1.21 q 0,0.98 -0.23,1.41 -0.31,0.6 -0.98,0.9 l -0.32,-0.52 q 0.4,-0.16 0.59,-0.51 0.19,-0.35 0.22,-0.96 z" />
       </g>
       <g
          id="text1928-1"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.98625px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.9375"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.98625px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;fill:#d2cec2;fill-opacity:1;stroke:none;stroke-width:0.9375"
          aria-label="“">
         <path
            inkscape:connector-curvature="0"
            id="path2877"
-           style="fill:#ffffff;fill-opacity:1;stroke-width:0.9375"
+           style="fill:#d2cec2;fill-opacity:1;stroke-width:0.9375"
            d="m 688.41,173.86 v 1.53 H 687 v -1.2 q 0,-0.98 0.23,-1.42 0.31,-0.59 0.98,-0.89 l 0.32,0.51 q -0.4,0.17 -0.59,0.51 -0.19,0.33 -0.22,0.96 z m 2.27,0 v 1.53 h -1.41 v -1.2 q 0,-0.98 0.23,-1.42 0.31,-0.59 0.98,-0.89 l 0.32,0.51 q -0.4,0.17 -0.59,0.51 -0.19,0.33 -0.22,0.96 z" />
       </g>
       <g
          id="text1958"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.98625px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.9375"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.98625px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#d2cec2;fill-opacity:1;stroke:none;stroke-width:0.9375"
          aria-label="°">
         <path
            inkscape:connector-curvature="0"
            id="path2868"
-           style="fill:#ffffff;fill-opacity:1;stroke-width:0.9375"
+           style="fill:#d2cec2;fill-opacity:1;stroke-width:0.9375"
            d="m 821.59,173.91 q 0,-0.84 0.59,-1.44 0.6,-0.59 1.43,-0.59 0.85,0 1.45,0.59 0.59,0.6 0.59,1.44 0,0.84 -0.6,1.44 -0.59,0.59 -1.44,0.59 -0.83,0 -1.43,-0.59 -0.59,-0.59 -0.59,-1.44 z m 0.8,0 q 0,0.51 0.35,0.88 0.37,0.35 0.88,0.35 0.51,0 0.87,-0.35 0.36,-0.37 0.36,-0.88 0,-0.51 -0.36,-0.87 -0.36,-0.37 -0.87,-0.37 -0.51,0 -0.88,0.37 -0.35,0.36 -0.35,0.87 z" />
       </g>
       <g
          id="text1966"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.98625px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.9375"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.98625px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#d2cec2;fill-opacity:1;stroke:none;stroke-width:0.9375"
          aria-label="_">
         <path
            inkscape:connector-curvature="0"
            id="path2862"
-           style="fill:#ffffff;fill-opacity:1;stroke-width:0.9375"
+           style="fill:#d2cec2;fill-opacity:1;stroke-width:0.9375"
            d="m 614.45,182.79 v -0.95 h 8.73 v 0.95 z" />
       </g>
       <g
          id="text13949"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.98625px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.9375"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.98625px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#d2cec2;fill-opacity:1;stroke:none;stroke-width:0.9375"
          aria-label="ß">
         <path
            inkscape:connector-curvature="0"
            id="path2853"
-           style="fill:#ffffff;fill-opacity:1;stroke-width:0.9375"
+           style="fill:#d2cec2;fill-opacity:1;stroke-width:0.9375"
            d="m 261.66,317.52 v -7.31 q 0,-1.34 0.33,-2.06 0.32,-0.72 1.09,-1.13 0.76,-0.41 1.71,-0.41 1.26,0 1.99,0.63 0.72,0.63 0.72,1.47 0,0.37 -0.13,0.76 -0.13,0.4 -0.47,0.99 -0.33,0.59 -0.42,0.82 -0.1,0.23 -0.1,0.4 0,0.24 0.16,0.47 0.15,0.23 0.89,0.71 0.99,0.65 1.32,1.04 0.47,0.57 0.47,1.33 0,1.02 -0.75,1.74 -0.75,0.73 -1.92,0.73 -0.92,0 -1.62,-0.49 -0.69,-0.5 -1.04,-1.27 l 1.14,-0.53 q 0.36,0.68 0.73,0.94 0.36,0.27 0.77,0.27 0.55,0 0.95,-0.38 0.39,-0.38 0.39,-0.9 0,-0.41 -0.23,-0.7 -0.15,-0.19 -0.82,-0.64 -1.22,-0.84 -1.5,-1.25 -0.29,-0.42 -0.29,-0.86 0,-0.29 0.1,-0.58 0.1,-0.29 0.48,-0.94 0.38,-0.64 0.49,-0.96 0.12,-0.32 0.12,-0.57 0,-0.46 -0.4,-0.8 -0.4,-0.35 -1.06,-0.35 -0.78,0 -1.28,0.48 -0.5,0.48 -0.5,2.09 v 7.26 z" />
       </g>
       <g
          id="text13961-7-0"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.98625px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.9375"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.98625px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;fill:#d2cec2;fill-opacity:1;stroke:none;stroke-width:0.9375"
          aria-label="÷">
         <path
            inkscape:connector-curvature="0"
            id="path2835"
-           style="fill:#ffffff;fill-opacity:1;stroke-width:0.9375"
+           style="fill:#d2cec2;fill-opacity:1;stroke-width:0.9375"
            d="m 871.87,310.95 v -1.5 h 1.5 v 1.5 z m 4.3,2.07 h -7.08 v -1.23 h 7.08 z m -4.3,2.35 v -1.5 h 1.5 v 1.5 z" />
       </g>
       <g
          id="text14037"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.98625px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.9375"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.98625px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#d2cec2;fill-opacity:1;stroke:none;stroke-width:0.9375"
          aria-label="×">
         <path
            inkscape:connector-curvature="0"
            id="path2829"
-           style="fill:#ffffff;fill-opacity:1;stroke-width:0.9375"
+           style="fill:#d2cec2;fill-opacity:1;stroke-width:0.9375"
            d="m 937.74,314.89 2.3,-2.31 -2.3,-2.3 0.9,-0.89 2.29,2.3 2.29,-2.29 0.88,0.88 -2.28,2.29 2.3,2.3 -0.9,0.89 -2.29,-2.29 -2.31,2.3 z" />
       </g>
       <g
          id="text14041"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.98625px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.9375"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.98625px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#d2cec2;fill-opacity:1;stroke:none;stroke-width:0.9375"
          aria-label="©">
         <path
            inkscape:connector-curvature="0"
            id="path2826"
-           style="fill:#ffffff;fill-opacity:1;stroke-width:0.9375"
+           style="fill:#d2cec2;fill-opacity:1;stroke-width:0.9375"
            d="m 297.29,373.74 q 1.39,0 2.72,0.72 1.32,0.71 2.06,2.04 0.74,1.33 0.74,2.77 0,1.43 -0.73,2.74 -0.73,1.32 -2.04,2.05 -1.31,0.73 -2.75,0.73 -1.43,0 -2.75,-0.73 -1.31,-0.73 -2.04,-2.05 -0.73,-1.31 -0.73,-2.74 0,-1.44 0.74,-2.77 0.74,-1.33 2.07,-2.04 1.32,-0.72 2.71,-0.72 z m 0,0.92 q -1.16,0 -2.27,0.6 -1.09,0.59 -1.72,1.7 -0.62,1.11 -0.62,2.31 0,1.19 0.61,2.29 0.61,1.09 1.71,1.7 1.1,0.61 2.29,0.61 1.19,0 2.29,-0.61 1.1,-0.61 1.71,-1.7 0.6,-1.1 0.6,-2.29 0,-1.2 -0.62,-2.31 -0.61,-1.11 -1.72,-1.7 -1.1,-0.6 -2.26,-0.6 z m 1.77,5.5 0.9,0.26 q -0.22,0.92 -0.93,1.47 -0.71,0.54 -1.73,0.54 -1.29,0 -2.09,-0.83 -0.81,-0.84 -0.81,-2.32 0,-0.96 0.37,-1.67 0.36,-0.72 1.04,-1.08 0.68,-0.36 1.55,-0.36 0.97,0 1.61,0.46 0.65,0.47 0.88,1.26 l -0.87,0.21 q -0.22,-0.54 -0.65,-0.82 -0.42,-0.29 -1,-0.29 -0.84,0 -1.39,0.6 -0.54,0.6 -0.54,1.71 0,1.12 0.51,1.7 0.52,0.57 1.34,0.57 0.66,0 1.15,-0.38 0.5,-0.38 0.66,-1.03 z" />
       </g>
       <g
          id="text1964"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.98625px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.9375"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.98625px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#d2cec2;fill-opacity:1;stroke:none;stroke-width:0.9375"
          aria-label="·">
         <path
            inkscape:connector-curvature="0"
            id="path2799"
-           style="fill:#ffffff;fill-opacity:1;stroke-width:0.9375"
+           style="fill:#d2cec2;fill-opacity:1;stroke-width:0.9375"
            d="m 773.49,380 v -1.5 h 1.5 v 1.5 z" />
       </g>
       <g
          id="text3872"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.98625px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.9375"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.98625px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#d2cec2;fill-opacity:1;stroke:none;stroke-width:0.9375"
          aria-label="ç">
         <path
            inkscape:connector-curvature="0"
            id="path2796"
-           style="fill:#ffffff;fill-opacity:1;stroke-width:0.9375"
+           style="fill:#d2cec2;fill-opacity:1;stroke-width:0.9375"
            d="m 369.04,381.81 1.29,0.17 q -0.21,1.33 -1.09,2.1 -0.87,0.75 -2.14,0.75 -1.6,0 -2.57,-1.04 -0.96,-1.05 -0.96,-2.99 0,-1.26 0.41,-2.21 0.42,-0.94 1.27,-1.41 0.85,-0.47 1.86,-0.47 1.26,0 2.07,0.64 0.8,0.64 1.03,1.82 l -1.28,0.19 q -0.18,-0.78 -0.65,-1.17 -0.46,-0.4 -1.12,-0.4 -1,0 -1.62,0.72 -0.62,0.71 -0.62,2.25 0,1.57 0.6,2.28 0.6,0.71 1.56,0.71 0.78,0 1.3,-0.48 0.52,-0.47 0.66,-1.46 z m -3.05,3.82 0.38,-1.29 h 0.98 l -0.24,0.78 q 0.62,0.1 0.93,0.38 0.32,0.32 0.32,0.7 0,0.55 -0.53,0.96 -0.53,0.43 -1.59,0.43 -0.6,0 -1.05,-0.1 l 0.1,-0.86 q 0.47,0 0.69,0 0.69,0 0.96,-0.19 0.22,-0.14 0.22,-0.36 0,-0.13 -0.1,-0.23 -0.1,-0.1 -0.31,-0.18 -0.23,-0.1 -0.75,-0.1 z" />
       </g>
       <g
          id="text2759"
-         style="font-style:normal;font-weight:normal;font-size:14.98625px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.9375"
+         style="font-style:normal;font-weight:normal;font-size:14.98625px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#d2cec2;fill-opacity:1;stroke:none;stroke-width:0.9375"
          aria-label="¡">
         <path
            inkscape:connector-curvature="0"
            id="path2785"
-           style="fill:#ffffff;fill-opacity:1;stroke-width:0.9375"
+           style="fill:#d2cec2;fill-opacity:1;stroke-width:0.9375"
            d="m 707.52,375.31 h -1.49 v -1.55 h 1.49 z m 0.1,9.35 h -1.64 l 0.19,-7.9 h 1.24 z" />
       </g>
       <g
          id="text2763"
-         style="font-style:normal;font-weight:normal;font-size:14.98625px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.9375"
+         style="font-style:normal;font-weight:normal;font-size:14.98625px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#d2cec2;fill-opacity:1;stroke:none;stroke-width:0.9375"
          aria-label="¿">
         <path
            inkscape:connector-curvature="0"
            id="path2782"
-           style="fill:#ffffff;fill-opacity:1;stroke-width:0.9375"
+           style="fill:#d2cec2;fill-opacity:1;stroke-width:0.9375"
            d="m 638.29,375.29 h -1.49 v -1.54 h 1.49 z m 1.8,9.06 q -0.61,0.22 -1.29,0.37 -0.68,0.14 -1.5,0.14 -1.57,0 -2.49,-0.76 -0.9,-0.77 -0.9,-2.02 0,-0.71 0.24,-1.26 0.26,-0.55 0.69,-1.01 0.43,-0.45 1,-0.81 0.58,-0.38 1.07,-0.68 v -1.64 h 1.31 v 2.23 q -0.44,0.24 -1.01,0.6 -0.58,0.35 -0.92,0.64 -0.39,0.35 -0.64,0.8 -0.25,0.45 -0.25,1.02 0,0.83 0.55,1.24 0.57,0.4 1.45,0.4 0.76,0 1.47,-0.24 0.73,-0.24 1.15,-0.51 h 0.1 z" />
+      </g>
+      <g
+         id="text2755"
+         style="font-style:normal;font-weight:normal;font-size:14.98625px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#d2cec2;fill-opacity:1;stroke:none;stroke-width:0.9375"
+         aria-label="―">
+        <path
+           inkscape:connector-curvature="0"
+           id="path2788"
+           style="fill:#d2cec2;fill-opacity:1;stroke-width:0.9375"
+           d="m 623.14,152.16 h -12.01 v -1.17 h 12.01 z" />
       </g>
     </g>
     <g
-       id="g5153"
-       style="fill:#ffffff;fill-opacity:1">
+       id="g4405">
       <g
          transform="scale(0.99912,1.0009)"
          style="font-size:14.9868px;fill:#ffffff;fill-opacity:1"
@@ -7225,16 +7234,6 @@
            id="path2802"
            style="fill:#ffffff;fill-opacity:1;stroke-width:0.9375"
            d="m 817.3,351.73 h -7.08 v -1.23 h 7.08 z m 0,3.26 h -7.08 v -1.23 h 7.08 z" />
-      </g>
-      <g
-         id="text2755"
-         style="font-style:normal;font-weight:normal;font-size:14.98625px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.9375"
-         aria-label="―">
-        <path
-           inkscape:connector-curvature="0"
-           id="path2788"
-           style="fill:#ffffff;fill-opacity:1;stroke-width:0.9375"
-           d="m 623.14,152.16 h -12.01 v -1.17 h 12.01 z" />
       </g>
       <text
          id="text2767"
